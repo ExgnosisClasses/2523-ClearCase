@@ -6,7 +6,7 @@ General information for the class
 
 #### Schedule
 
-- The class runs from 10am to 5pm EDT SEpt 4-5, 2025
+- The class runs from 10am to 5pm EDT Sept 4-5, 2025
 - One-hour lunch from 1pm to 2pm EDT
 - Mid-morning and mid-afternoon 10-minute breaks
     - No fixed time, depends on the flow of discussion
